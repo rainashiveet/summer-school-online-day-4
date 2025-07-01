@@ -1,0 +1,15 @@
+let string="hello";
+console.log(string);
+console.log(typeof string);
+let num = 12;
+console.log(num);
+console.log(typeof num);
+let bool = true;
+console.log(bool);
+console.log(typeof bool);
+let score;
+console.log(score);
+console.log(typeof score);
+const x = null;
+console.log(x);
+console.log(typeof x);
